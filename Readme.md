@@ -4,7 +4,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prawy126&theme=dark)
 ### Rozkład repozytorium względem języków programowania
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prawy126&theme=dark)
-### Rozkład języków programowania względem popularności używania ich w moich programach
+### Rozkład najczęściej używanych języków programowania przez mnie
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prawy126&theme=dark)
 ### Ogólna ilość przezsłanych commitów 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prawy126&theme=dark)
