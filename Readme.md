@@ -1,5 +1,6 @@
 # Statystyki mojego githuba:
 ![](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)
+![](https://github.com/Prawy126/Prawy126/blob/main/gitartwork.svg)
 ![snake gif](https://github.com/Prawy126/Prawy126/blob/output/github-contribution-grid-snake.gif)
 ## Oto aktualne statystyki mojej nauki:
 ### Liczba commitów w ostatnim czasie
