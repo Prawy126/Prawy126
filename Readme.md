@@ -10,3 +10,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prawy126&theme=dark)
 ### Statystyka publikowania treści pokazna na wykresie względem godzin:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prawy126&theme=dark&utcOffset=1)
+### Ocena mojego repozytorium 
+![](https://github-readme-stats.vercel.app/api?username=Prawy126)
+### Najczęściej używany język 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prawy126)
