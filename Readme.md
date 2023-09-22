@@ -1,4 +1,5 @@
 # Statystyki mojego githuba:
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogrammer-gif-19019116&psig=AOvVaw1AiR8Zcl-9cLMYQ7yv33PW&ust=1695474826546000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPD4woCmvoEDFQAAAAAdAAAAABAE)
 ## Oto aktualne statystyki mojej nauki:
 ### Liczba commitów w ostatnim czasie
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prawy126&theme=dark)
