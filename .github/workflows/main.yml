@@ -54,33 +54,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-          name: Continuous Integration
-
-on:
-  push:
-    branches:
-      - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-
-      - name: Configure Git
-        run: |
-          git config user.email "actions@github.com"
-          git config user.name "GitHub Actions"
-          git remote remove origin
-          git remote add origin https://github.com/Prawy126/Prawy126.git
-          git fetch
-          git checkout main
-
-      - name: Push Changes
-        run: |
-          git add .
-          git commit -m "Update"
-          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/Prawy126/Prawy126.git main
-
+          
