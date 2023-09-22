@@ -18,7 +18,7 @@ jobs:
       - run: npm run lint
       - run: npm run test --ci
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PRAWY_126 }}
 
   test-action:
     runs-on: ubuntu-latest
@@ -39,7 +39,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PRAWY_126}}
 
       - name: ensure the generated file exists
         run: |
@@ -53,7 +53,7 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PRAWY_126 }}
 
   test-action-svg-only:
     runs-on: ubuntu-latest
@@ -80,7 +80,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PRAWY_126}}
 
       - name: ensure the generated file exists
         run: |
@@ -93,7 +93,7 @@ jobs:
           target_branch: output-svg-only
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PRAWY_126 }}
 
   deploy-ghpages:
     runs-on: ubuntu-latest
@@ -114,5 +114,4 @@ jobs:
         with:
           target_branch: gh-pages
           build_dir: packages/demo/dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN_GH_PAGES }}
+        
