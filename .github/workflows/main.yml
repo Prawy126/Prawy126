@@ -22,6 +22,10 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
+      - name: Set outputs
+        run: |
+          echo "MY_OUTPUT=$(cat dist/github-contribution-grid-snake.svg)" >> $GITHUB_ENV
+
       - name: Show the status of the build
         run: git status
 
