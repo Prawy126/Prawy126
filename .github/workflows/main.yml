@@ -18,7 +18,7 @@ jobs:
       - run: npm run lint
       - run: npm run test --ci
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PRAWY_126 }}
 
   test-action:
     runs-on: ubuntu-latest
