@@ -1,5 +1,4 @@
-# Statystyki mojego githuba:
-![](https://github.com/Prawy126/Prawy126/blob/main/gitartwork.svg)
+# ![](https://github.com/Prawy126/Prawy126/blob/main/gitartwork.svg)
 ![](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)
 <!--![snake gif](https://github.com/Prawy126/Prawy126/blob/output/github-contribution-grid-snake.gif)-->
 ## Oto aktualne statystyki mojej nauki:
