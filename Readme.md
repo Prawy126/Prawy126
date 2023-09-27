@@ -17,5 +17,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Prawy126)
 ### Najczęściej używany język 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prawy126)
-###### Ile osób już zobaczyło mój profil
+###### Liczba wyświetleń mojego profilu
 ![](https://komarev.com/ghpvc/?username=Prawy126&color=blue)
