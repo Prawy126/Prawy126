@@ -1,6 +1,6 @@
 name: Simple git push action
 description: Push GitHub action output into your repository
-author: jasineri
+author: Prawy126
 inputs:
   repository:
     description: Repository name
@@ -27,7 +27,7 @@ runs:
   steps:
     - run: |
         cd ${{ inputs.path }}
-        git config user.name "jasineri/simple-push-action"
+        git config user.name "Prawy_126"
         git config user.email "<>"
         git add ${{ inputs.file_pattern }}
         git diff-index --quiet HEAD || git commit -m "${{ inputs.message }}" && git push https://${{ inputs.token }}@github.com/${{ inputs.repository }}.git
