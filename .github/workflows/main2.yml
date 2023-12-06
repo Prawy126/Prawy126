@@ -1,5 +1,5 @@
  name: gitartwork from a contribution graph
-on: 
+ on: 
    push:
    schedule:
      - cron: '* */24 * * *'
@@ -12,7 +12,7 @@ on:
        - uses: jasineri/gitartwork@v1
          with:
             # Use this username's contribution graph  
-            user_name: Prawy126
+            user_name: jasineri
             # Text on contribution graph 
             text: PRAWY126
        - uses: jasineri/simple-push-action@v1
