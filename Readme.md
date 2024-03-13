@@ -1,6 +1,6 @@
 # ![](https://github.com/Prawy126/Prawy126/blob/main/gitartwork.svg)
 ![](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)
-![snake gif](https://github.com/Prawy126/Prawy126/blob/output/github-contribution-grid-snake.gif)
+<!--![snake gif](https://github.com/Prawy126/Prawy126/blob/output/github-contribution-grid-snake.gif)-->
 ## Oto aktualne statystyki mojej nauki:
 ### Liczba commitów w ostatnim czasie
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prawy126&theme=dark)
@@ -18,5 +18,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prawy126)
 ###### Liczba wyświetleń mojego profilu
 ![](https://komarev.com/ghpvc/?username=Prawy126&color=blue)
-#### Czas:
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=Prawy_126)](https://github.com/Prawy126/github-readme-stats)
+<!--#### Czas:
+<!--[![](https://github-readme-stats.vercel.app/api/wakatime?username=Prawy_126)](https://github.com/Prawy126/github-readme-stats)-->
