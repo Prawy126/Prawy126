@@ -18,5 +18,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prawy126)
 ###### Liczba wyświetleń mojego profilu
 ![](https://komarev.com/ghpvc/?username=Prawy126&color=blue)
-<!--#### Czas:
-<!--[![](https://github-readme-stats.vercel.app/api/wakatime?username=Prawy_126)](https://github.com/Prawy126/github-readme-stats)-->
+#### Czas:
+<a href="https://github.com/Prawy126">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prawy_126&hide_border=true&card_width=50%&theme=transparent" />
+  </a>
