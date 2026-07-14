@@ -49,16 +49,16 @@ A oto jak wygląda moja codzienna praca i nauka w liczbach:
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Prawy126&show_icons=true&theme=dark" width="100%" />
+      <img src="https://github-readme-stats.shion.dev/api?username=Prawy126&show_icons=true&theme=dark" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prawy126&layout=compact&theme=dark" width="100%" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Prawy126&layout=compact&theme=dark" width="100%" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Prawy_126&layout=compact&theme=dark&hide=Java%20Properties,CSV/TSV,Properties,Markdown,Text,textmate,Other,HTTP%20Request,.env%20file,Gitignore%20file" width="450" />
+  <img src="https://github-readme-stats.shion.dev/api/wakatime?username=Prawy_126&layout=compact&theme=dark&hide=Java%20Properties,CSV/TSV,Properties,Markdown,Text,textmate,Other,HTTP%20Request,.env%20file,Gitignore%20file" width="450" />
 </p>
 
 ---
